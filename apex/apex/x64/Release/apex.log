@@ -1,0 +1,205 @@
+﻿  main.cpp
+C:\Users\Sigma\Downloads\apex\overlay\overlay.hpp(73,31): warning C4129: 'F': Nicht erkannte Folge von Escapesequenz.
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(247,10): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(248,10): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(726,87): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(726,68): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(726,63): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(726,52): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(726,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(727,87): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(727,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(727,65): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(727,52): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(727,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(728,95): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(728,84): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(728,79): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(728,66): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(728,55): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(729,95): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(729,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(729,69): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(729,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(729,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(730,95): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(730,82): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(730,77): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(730,58): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(730,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(731,95): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(731,82): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(731,69): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(731,54): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(731,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(732,103): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(732,90): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(732,83): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(732,68): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(732,55): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(733,103): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(733,90): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(733,83): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(733,62): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(733,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(810,12): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(811,11): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(812,13): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(813,14): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(818,18): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(820,20): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(822,19): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(824,17): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(293,24): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(293,20): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(387,153): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(458,101): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(458,67): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(458,56): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(458,52): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(458,29): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(464,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(466,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(467,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(472,14): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(476,83): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(477,83): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(544,36): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\game\loop.hpp(544,22): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „main.cpp“ wird kompiliert)
+  
+C:\Users\Sigma\Downloads\apex\main.cpp(151,6): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+C:\Users\Sigma\Downloads\apex\game\sdk.hpp(828,1): warning C4715: "create_box": Nicht alle Codepfade geben einen Wert zurück.
+  apex.vcxproj -> C:\Users\Sigma\Downloads\apex\x64\Release\apex.exe
